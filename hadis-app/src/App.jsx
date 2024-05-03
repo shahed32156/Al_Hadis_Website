@@ -15,11 +15,11 @@ function App() {
 
     <>
 
-    {/* <Home /> */}
-    {/* <Navbar /> */}
-    {/* <Hadis_grontho /> */}
-    {/* <Hadis_topics /> */}
-    {/* <Bookmark /> */}
+    <Home />
+    <Navbar />
+    <Hadis_grontho />
+    <Hadis_topics />
+    <Bookmark />
     <Projects />
 
     </>
