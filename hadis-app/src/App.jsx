@@ -16,10 +16,10 @@ function App() {
     <>
 
     <Home />
-    <Hadis_grontho />
+{/*     <Hadis_grontho />
     <Hadis_topics />
     <Bookmark />
-    <Projects />
+    <Projects /> */}
 
     </>
   )
